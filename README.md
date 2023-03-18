@@ -1,4 +1,4 @@
 # odin-recipes
 Project: Recipes
 
-This project reflects the basic skills of HTML.
+Live site: https://marshakib.github.io/odin-recipes/
